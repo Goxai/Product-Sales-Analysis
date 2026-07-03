@@ -1,7 +1,6 @@
 # Product-Sales-Analysis
 Analyse the product sales dataset to know the product performing well and how to improve those not performing well 
 
-## Did not do too much in cleaning the dataset.
 
 # Result of analysis
 
